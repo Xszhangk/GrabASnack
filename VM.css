@@ -1,0 +1,34 @@
+@charset "utf-8";
+body{
+		padding:0;
+	margin:0;
+}
+
+img{
+    position: absolute;
+    height: 1998px;
+    left: -11px;
+    top: -6px;
+}
+.Empty{
+    left: 1px;
+    top: 603px;
+    width: 1912px;
+    height: 1090px;
+    z-index: 4;
+}
+.Coin{
+    left: 49px;
+    top: 1441px;
+    width: 468px;
+    height: 535px;
+    z-index: 3;
+
+}
+.tree{
+    left: 78px;
+    top: 1437px;
+    width: 468px;
+    height: 535px;
+    z-index: 3;
+}

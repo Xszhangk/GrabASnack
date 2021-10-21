@@ -1,0 +1,82 @@
+@charset "utf-8";
+body{
+		padding:0;
+	margin:0;
+}
+
+img{
+    position: absolute;
+    height: 1998px;
+}
+
+
+.Empty{
+    left: 140px;
+    top: 592px;
+    width: 1712px;
+    height: 1090px;
+    z-index: 4;
+}
+.purple{
+    left: 1154px;
+    top: 1056px;
+    width: 67px;
+    height: 48px;
+    z-index: 4;
+}
+.sec{
+    left: 1241px;
+    top: 1126px;
+    width: 67px;
+    height: 48px;
+    z-index: 4;
+}
+.third{
+    left: 1070px;
+    top: 1127px;
+    width: 67px;
+    height: 48px;
+    z-index: 4;
+}
+.fr{
+    left: 1157px;
+    top: 1216px;
+    width: 67px;
+    height: 48px;
+    z-index: 4;
+}
+.cho{
+    left: 1322px;
+    top: 1214px;
+    width: 67px;
+    height: 48px;
+    z-index: 4;
+}
+.gre{
+    left: 1076px;
+    top: 1217px;
+    width: 67px;
+    height: 48px;
+    z-index: 4;
+}
+.df{
+    left: 1157px;
+    top: 1301px;
+    width: 67px;
+    height: 48px;
+    z-index: 4;
+}
+.wa{
+    left: 1242px;
+    top: 1300px;
+    width: 67px;
+    height: 48px;
+    z-index: 4;
+}
+.la{
+    left: 1317px;
+    top: 1385px;
+    width: 67px;
+    height: 48px;
+    z-index: 4;
+}
